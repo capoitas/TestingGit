@@ -1,4 +1,0 @@
-TestingGit
-==========
-
-Repositorio do titó
